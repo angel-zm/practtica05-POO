@@ -1,0 +1,45 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica5/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica5/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'practica5 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica5/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'practica5 1.0-SNAPSHOT API'
+com.mycompany.practica5
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica5/src/main/java/com/mycompany/practica5/Carro.java'
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica5/src/main/java/com/mycompany/practica5/Circulo.java'
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica5/src/main/java/com/mycompany/practica5/Fecha.java'
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica5/src/main/java/com/mycompany/practica5/Persona.java'
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica5/src/main/java/com/mycompany/practica5/Practica05.java'
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica5\src\main\java = 1634213319368
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica5\target\site\apidocs\allclasses-frame.html = 1635306797622
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica5\target\site\apidocs\allclasses-noframe.html = 1635306797624
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica5\target\site\apidocs\constant-values.html = 1635306797500
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica5\target\site\apidocs\deprecated-list.html = 1635306797618
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica5\target\site\apidocs\help-doc.html = 1635306797632
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica5\target\site\apidocs\index-all.html = 1635306797614
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica5\target\site\apidocs\index.html = 1635306797627
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica5\target\site\apidocs\overview-tree.html = 1635306797594
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica5\target\site\apidocs\package-list = 1635306797479
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica5\target\site\apidocs\script.js = 1635306797642
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica5\target\site\apidocs\stylesheet.css = 1635306797639
